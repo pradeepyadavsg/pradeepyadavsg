@@ -22,14 +22,22 @@ VS Code • Git • GitHub • pgAdmin 4 • Oracle
 ### 1. Personal Portfolio Website
 A responsive personal portfolio website built using HTML and CSS.
 
+🔗 [View Live Project](https://pradeepyadavsg.github.io/my-portfolio/)
+
 ### 2. Business Landing Page
 A responsive business website created using HTML and CSS.
+
+🔗 [View Live Project](https://pradeepyadavsg.github.io/business-website/)
 
 ### 3. Interactive To-Do List
 A task management application built using HTML, CSS, and JavaScript.
 
+🔗 [View Live Project](https://pradeepyadavsg.github.io/todo-list/)
+
 ### 4. Responsive Calculator
 A functional calculator built using HTML, CSS, and JavaScript.
+
+🔗 [View Live Project](https://pradeepyadavsg.github.io/calculator/)
 
 ## 🎯 Career Goal
 
