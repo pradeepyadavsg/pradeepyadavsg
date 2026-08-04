@@ -39,6 +39,11 @@ A functional calculator built using HTML, CSS, and JavaScript.
 
 🔗 [View Live Project](https://pradeepyadavsg.github.io/calculator/)
 
+### 5. Weather App
+
+A responsive weather application built using HTML, CSS, and JavaScript. It allows users to search for a city and view weather details.
+
+🔗 [View Live Project](https://pradeepyadavsg.github.io/weather-app/)
 ## 🎯 Career Goal
 
 To start my career as a Web Developer or Software Developer and contribute to real-world projects while continuously improving my technical skills.
