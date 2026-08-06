@@ -45,7 +45,7 @@ A responsive weather application built using HTML, CSS, and JavaScript. It allow
 
 🔗 [View Live Project](https://pradeepyadavsg.github.io/weather-app/)
 
-### 🔐 Login & Register System
+### 6. 🔐 Login & Register System
 
 A modern responsive authentication system built using HTML, CSS and JavaScript.
 
