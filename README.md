@@ -44,6 +44,27 @@ A functional calculator built using HTML, CSS, and JavaScript.
 A responsive weather application built using HTML, CSS, and JavaScript. It allows users to search for a city and view weather details.
 
 🔗 [View Live Project](https://pradeepyadavsg.github.io/weather-app/)
+
+### 🔐 Login & Register System
+
+A modern responsive authentication system built using HTML, CSS and JavaScript.
+
+**✨ Features**
+- Login & Register Forms
+- Show/Hide Password
+- Form Validation
+- Form Switching
+- Responsive Design
+
+**🛠️ Tech Stack**
+- HTML5
+- CSS3
+- JavaScript
+
+🔗 **Live Demo:** https://pradeepyadavsg.github.io/login-form/
+
+📂 **Source Code:** https://github.com/pradeepyadavsg/login-form
+
 ## 🎯 Career Goal
 
 To start my career as a Web Developer or Software Developer and contribute to real-world projects while continuously improving my technical skills.
