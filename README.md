@@ -61,9 +61,9 @@ A modern responsive authentication system built using HTML, CSS and JavaScript.
 - CSS3
 - JavaScript
 
-🔗 **Live Demo:** https://pradeepyadavsg.github.io/login-form/
+🔗 [View Live Project](https://pradeepyadavsg.github.io/login-form/)
 
-📂 **Source Code:** https://github.com/pradeepyadavsg/login-form
+📂 [**Source Code:**] (https://github.com/pradeepyadavsg/login-form)
 
 ## 🎯 Career Goal
 
