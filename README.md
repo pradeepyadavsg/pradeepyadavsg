@@ -49,21 +49,15 @@ A responsive weather application built using HTML, CSS, and JavaScript. It allow
 
 A modern responsive authentication system built using HTML, CSS and JavaScript.
 
-**✨ Features**
-- Login & Register Forms
-- Show/Hide Password
-- Form Validation
-- Form Switching
-- Responsive Design
-
-**🛠️ Tech Stack**
-- HTML5
-- CSS3
-- JavaScript
-
 🔗 [View Live Project](https://pradeepyadavsg.github.io/login-form/)
 
-📂 **Source Code:** https://github.com/pradeepyadavsg/login-form
+
+### 7.💰 Expense Tracker
+
+A responsive expense tracker built using HTML, CSS and JavaScript.
+
+🔗 [View_Live_Project](https://pradeepyadavsg.github.io/expense-tracker/)
+
 
 ## 🎯 Career Goal
 
