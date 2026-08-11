@@ -59,6 +59,13 @@ A responsive expense tracker built using HTML, CSS and JavaScript.
 🔗 [View_Live_Project](https://pradeepyadavsg.github.io/expense-tracker/)
 
 
+
+### 8. 📝 Notes App
+
+A responsive notes application built using HTML, CSS and JavaScript.
+
+🔗 [View_Live_Project](https://pradeepyadavsg.github.io/notes-app/)
+
 ## 🎯 Career Goal
 
 To start my career as a Web Developer or Software Developer and contribute to real-world projects while continuously improving my technical skills.
